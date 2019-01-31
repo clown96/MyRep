@@ -1,0 +1,6 @@
+
+
+eecs: get the homepage of eecs.pku.edu.cn and store in file "eecs_code.txt" , then run getObj inside.
+getObj: read from file "eecs_code.txt" and get url to objects, then request it from web and store in ./Objects/ .
+
+
